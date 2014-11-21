@@ -1,0 +1,5 @@
+C:\Users\vuric_000\Documents\Visual Studio 2013\Projects\Dottor.AzureAllExamples\TestPerInteraDirectory\bin\Debug\TestPerInteraDirectory.exe.config
+C:\Users\vuric_000\Documents\Visual Studio 2013\Projects\Dottor.AzureAllExamples\TestPerInteraDirectory\bin\Debug\TestPerInteraDirectory.exe
+C:\Users\vuric_000\Documents\Visual Studio 2013\Projects\Dottor.AzureAllExamples\TestPerInteraDirectory\bin\Debug\TestPerInteraDirectory.pdb
+C:\Users\vuric_000\Documents\Visual Studio 2013\Projects\Dottor.AzureAllExamples\TestPerInteraDirectory\obj\Debug\TestPerInteraDirectory.exe
+C:\Users\vuric_000\Documents\Visual Studio 2013\Projects\Dottor.AzureAllExamples\TestPerInteraDirectory\obj\Debug\TestPerInteraDirectory.pdb
